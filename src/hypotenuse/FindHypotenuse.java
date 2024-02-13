@@ -1,4 +1,4 @@
-package hypotenuse.exercise;
+package hypotenuse;
 
 import java.util.Scanner;
 
